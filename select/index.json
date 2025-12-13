@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Thunderbolt",
+  "base_artist": "ぶいすぽっ！、神成きゅぴ",
+  "createdAt": "2025-12-13T14:22:48.129459Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Thunderbolt",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/01_Thunderbolt_Björk.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Thunderbolt (Current Value Remix)",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/02_Thunderbolt_(Current_Value_Remix)_Björk.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Thunderbolt (King Cannibal Remix)",
+      "artist": "Björk",
+      "has_synced": false,
+      "path": "select/03_Thunderbolt_(King_Cannibal_Remix)_Björk.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Thunderbolt (Omar Souleyman Remix)",
+      "artist": "Björk",
+      "has_synced": false,
+      "path": "select/04_Thunderbolt_(Omar_Souleyman_Remix)_Björk.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Girl In the Thunderbolt Suit",
+      "artist": "T. Rex",
+      "has_synced": false,
+      "path": "select/05_Girl_In_the_Thunderbolt_Suit_T._Rex.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Thunderbolt",
+      "artist": "Bryan Adams",
+      "has_synced": true,
+      "path": "select/06_Thunderbolt_Bryan_Adams.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Thunderbolt",
+      "artist": "Saxon",
+      "has_synced": false,
+      "path": "select/07_Thunderbolt_Saxon.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Saturday Night Thunderbolt",
+      "artist": "Ludo",
+      "has_synced": true,
+      "path": "select/08_Saturday_Night_Thunderbolt_Ludo.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Thunderbolt",
+      "artist": "Björk",
+      "has_synced": false,
+      "path": "select/09_Thunderbolt_Björk.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hellfire Thunderbolt",
+      "artist": "KK's Priest",
+      "has_synced": false,
+      "path": "select/10_Hellfire_Thunderbolt_KK's_Priest.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Thunderbolt (Live In San Antonio, 2018)",
+      "artist": "Saxon",
+      "has_synced": false,
+      "path": "select/11_Thunderbolt_(Live_In_San_Antonio,_2018)_Saxon.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Thunderbolt",
+      "artist": "Bryan Adams",
+      "has_synced": true,
+      "path": "select/12_Thunderbolt_Bryan_Adams.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Thunderbolt - E-Partment Extended Mix",
+      "artist": "Ktree feat. Robin Stjernberg & Flo Rida",
+      "has_synced": false,
+      "path": "select/13_Thunderbolt_-_E-Partment_Extended_Mix_Ktree_feat._Robin_Stjernberg_&_Flo_Rida.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Thunderbolt (Death Grips Remix)",
+      "artist": "Björk feat. Death Grips",
+      "has_synced": true,
+      "path": "select/14_Thunderbolt_(Death_Grips_Remix)_Björk_feat._Death_Grips.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Ms.Thunderbolt",
+      "artist": "BURNOUT SYNDROMES",
+      "has_synced": true,
+      "path": "select/15_Ms.Thunderbolt_BURNOUT_SYNDROMES.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Thunderbolt",
+      "artist": "Eugene McGuinness",
+      "has_synced": true,
+      "path": "select/16_Thunderbolt_Eugene_McGuinness.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Thunderbolt",
+      "artist": "ぶいすぽっ!、神成きゅぴ",
+      "has_synced": false,
+      "path": "select/pl_01_Thunderbolt_ぶいすぽっ!、神成きゅぴ.txt"
+    }
+  ]
+}
